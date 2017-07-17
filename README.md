@@ -8,7 +8,9 @@ Direct File (imgage, pdf document, etc) Download
 Notification Menus
 Value Boxes
 
-[![screenshot](./screenshots/screenshot01.pictClipping)](https://somelink)
+[![screenshot](./screenshots/screenshot2017-07-05.png)](https://somelink)
+[![screenshot](./screenshots/screenshot02-2017-07-05)](https://somelink)
+
 Title for the screenshot one
 
 Title for the screenshot two
