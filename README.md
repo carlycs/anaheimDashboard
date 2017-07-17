@@ -8,7 +8,7 @@ Direct File (imgage, pdf document, etc) Download
 Notification Menus
 Value Boxes
 
-[![screenshot](https://cldup.com/screenshot01.png)](https://somelink)
+[![screenshot](./screenshots/screenshot01.pictClipping)](https://somelink)
 Title for the screenshot one
 
 Title for the screenshot two
